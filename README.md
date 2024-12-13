@@ -1,9 +1,9 @@
 # RUShop Ecommerce Platform
 
+> Group course project of Rutgers ECE567 SOFTWARE ENGINRNG.
 > Ecommerce platform built with the MERN stack & Redux.
-> Course project of Rutgers ECE567 SOFTWARE ENGINRNG
 
-<img src="./frontend/public/images/screens.png">
+<img src="./frontend/public/images/screen1.png">
 
 ## Features
 
